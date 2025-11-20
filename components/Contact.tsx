@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Linkedin, ArrowUp } from 'lucide-react';
-import { motion } from 'framer-motion';
+
 
 const Contact: React.FC = () => {
   const scrollToTop = () => {
