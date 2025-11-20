@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://liuyuhui.github.io",
+  "homepage": "https://lorenalyu.github.io/liuyuhui.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
