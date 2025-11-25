@@ -22,7 +22,7 @@ const teachingData: TeachingItem[] = [
 
 const Teaching: React.FC = () => {
   return (
-    <section className="py-12 px-6 md:px-12 max-w-6xl mx-auto">
+    <section className="py-12 px-5 md:px-10 max-w-7xl mx-auto">
       <div className="flex items-center gap-3 mb-8 border-b border-primary/10 pb-4">
         <div className="p-2 bg-secondary/10 rounded-lg text-secondary">
             <BookOpen className="w-6 h-6" />
