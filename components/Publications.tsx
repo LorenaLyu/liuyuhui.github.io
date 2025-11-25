@@ -39,7 +39,7 @@ const publications: Publication[] = [
     venue: "The Visual Computer",
     year: "2025",
     abstract: "Recovering both all-in-focus images and dense depth maps to overcome trade-offs in depth of field. The asymmetric focus cues provide rich information for depth estimation.",
-    image: "visualcomputer.png",
+    image: "visualcomputer.jpg",
     links: [
       { label: "Paper", url: "https://link-springer-com.eproxy.lib.hku.hk/article/10.1007/s00371-025-04174-3", icon: "web" }
     ]
