@@ -48,7 +48,7 @@ const App: React.FC = () => {
       </div>
 
       {/* Content Container */}
-      <main className="relative z-10 flex flex-col gap-8 md:gap-16">
+      <main className="relative z-10 flex flex-col gap-8 md:gap-12">
         <Hero />
         
         <div className="space-y-12 md:space-y-20">
