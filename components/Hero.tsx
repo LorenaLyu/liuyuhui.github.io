@@ -48,11 +48,11 @@ const Hero: React.FC = () => {
                <span className="font-medium">Email Me</span>
              </a>
              <div className="grid grid-cols-2 gap-3">
-               <a href="#" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
+               <a href="https://www.linkedin.com/in/yuhui-lyu-lorena/" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
                  <Linkedin className="w-4 h-4 text-[#0077b5]" />
                  <span className="font-medium">LinkedIn</span>
                </a>
-                <a href="#" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
+                <a href="https://hku.welight.fun/" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
                  <Landmark className="w-4 h-4 text-primary" />
                  <span className="font-medium">WeLight</span>
                </a>
@@ -125,7 +125,7 @@ const Hero: React.FC = () => {
                  className="text-primary/80 leading-relaxed text-lg md:text-justify"
               >
                 <p>
-                  I am a 2nd year PhD student from the <strong className="text-dark">Electrical and Electronic Engineering Department</strong> at The University of Hong Kong, fortunately advised by <a href="#" className="font-medium text-secondary hover:underline decoration-2 decoration-secondary/30 underline-offset-2">Prof. Evan Y. Peng</a>. 
+                  I am a 2nd year PhD student from the <strong className="text-dark">Electrical and Electronic Engineering Department</strong> at The University of Hong Kong, fortunately advised by <a href="https://www.eee.hku.hk/~evanpeng/" className="font-medium text-secondary hover:underline decoration-2 decoration-secondary/30 underline-offset-2">Prof. Evan Y. Peng</a>. 
                   Prior to this, I completed my Bachelor's degree in Physics at <strong className="text-dark">Nankai University</strong>, followed by a Master's degree at HKU. 
                 </p>
                 <p className="mt-4">
