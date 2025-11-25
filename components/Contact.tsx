@@ -9,7 +9,7 @@ const Contact: React.FC = () => {
 
   return (
     <footer className="bg-dark text-accent/80 py-12 px-6 relative overflow-hidden mt-12">
-      <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-end gap-8 relative z-10">
+      <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-end gap-8 relative z-10">
         
         <div className="space-y-4">
           <h2 className="text-2xl font-serif font-bold text-white">Yuhui LIU</h2>
