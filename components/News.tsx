@@ -29,7 +29,7 @@ const itemVariant = {
 
 const News: React.FC = () => {
   return (
-    <section className="py-8 px-6 md:px-12 max-w-6xl mx-auto">
+    <section className="py-8 px-5 md:px-10 max-w-7xl mx-auto">
       <div className="bg-white rounded-3xl p-8 md:p-10 border border-primary/5 shadow-xl shadow-primary/5 relative overflow-hidden">
         {/* Decorative accent */}
         <div className="absolute top-0 left-0 w-1.5 h-full bg-gradient-to-b from-secondary to-primary/50"></div>
