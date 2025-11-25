@@ -50,7 +50,6 @@ const Teaching: React.FC = () => {
                
                <div className="flex items-center gap-6 text-sm">
                  <span className="text-primary/50 font-mono">{item.period}</span>
-                 <a href={item.link} className="text-secondary font-bold hover:text-primary transition-colors">Details &rarr;</a>
                </div>
              </div>
           </motion.div>
