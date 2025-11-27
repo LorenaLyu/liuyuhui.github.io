@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
                </a>
                 <a href="https://hku.welight.fun/" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
                  <Landmark className="w-4 h-4 text-primary" />
-                 <span className="font-medium">WeLight</span>
+                 <span className="font-medium">WeLight@HKU</span>
                </a>
              </div>
              <div className="flex items-center justify-center gap-2 px-4 py-2 text-xs text-primary/50 bg-primary/5 rounded-lg mt-1">
