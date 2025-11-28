@@ -48,17 +48,14 @@ const Hero: React.FC = () => {
                <span className="font-medium">Email Me</span>
              </a>
              <div className="grid grid-cols-2 gap-3">
-               <a href="https://www.linkedin.com/in/yuhui-lyu-lorena/" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
+             <a href="https://www.linkedin.com/in/yuhui-lyu-lorena/" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
                  <Linkedin className="w-4 h-4 text-[#0077b5]" />
                  <span className="font-medium">LinkedIn</span>
-             <a
-              href="https://github.com/Lorena-Y-Liu"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5"
-              >
-              <Github className="w-4 h-4" />
-              <span className="font-medium">GitHub</span>
+             </a>
+               
+             <a href="https://github.com/Lorena-Y-Liu" target="_blank" rel="noopener noreferrer" className="group flex items-center justify-center gap-2 px-4 py-3 bg-white text-dark border border-primary/10 rounded-xl hover:border-secondary/50 transition-all shadow-sm hover:-translate-y-0.5">
+               <Github className="w-4 h-4" />
+               <span className="font-medium">GitHub</span>
              </a>
 
              </div>
